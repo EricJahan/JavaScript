@@ -1,0 +1,27 @@
+.guessField {
+    border-color: aqua;
+}
+
+p {
+    color: black;
+    font-size: bold;
+    margin-top: 10px;
+}
+
+.lowOrHi {
+    color: red;
+}
+
+.guessSubmit {
+    background-color: black;
+    color: white;
+    border: outset;
+    margin-top: 15px;
+}
+
+
+.entrez {
+    border: outset 5px lightgrey;
+    margin-right: 350px;
+    margin-left: 350px;
+}
